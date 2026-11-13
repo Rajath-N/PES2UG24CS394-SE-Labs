@@ -1,3 +1,8 @@
-# Lab 04 file needed
+# Lab 04 — Vibe Coding
 
-The only local Lab 4 candidate was a saved ChatGPT page containing unrelated conversation history, so it was excluded from this collection and from the public GitHub repository. Add the actual Lab 4 submission here when you find it.
+The before-and-after demonstration videos are included here:
+
+- `before.mp4`
+- `after.mp4`
+
+The project HTML/source and ChatGPT share link are still needed. The only local file named `Lab 4 Requirements.html` was a saved ChatGPT page containing unrelated conversation history, so it was excluded.
