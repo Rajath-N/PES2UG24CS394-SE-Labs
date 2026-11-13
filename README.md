@@ -7,7 +7,7 @@ Individual lab submissions collected from the local Downloads folder and arrange
 - Lab01: Requirements engineering and UML use-case work.
 - Lab02: Agile backlog and Jira sprint work.
 - Lab03: Architecture selection and justification.
-- Lab05: Static code analysis report.
+- Lab05: Static code analysis report. The Dairy Collection project and analysis outputs are linked from [Lab05/README.md](Lab05/README.md).
 - Lab06: Code and branch coverage report. The implementation, tests, and screenshots are linked from [Lab06/README.md](Lab06/README.md).
 
 ## Missing item
